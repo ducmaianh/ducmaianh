@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hi there, I'm Anh Duc Mai!</h1>
+<h1 align="center">👋 Hi there, I'm Duc Mai Anh!</h1>
 
 <h3 align="center">Software Engineering Student at PTIT</h3>
 
