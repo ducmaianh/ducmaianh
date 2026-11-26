@@ -5,11 +5,12 @@
 <h3 align="center">Software Engineering Student at PTIT</h3>
 
 <p align="center">
-  Aspiring AI Engineer | NLP & Large Language Models (LLMs)
+  Aspiring AI Engineer | Machine Learning & Deep Learning
 </p>
 
 <p align="center">
-  Passionate about Software Development, Machine Learning & Natural Language Processing
+  Passionate about Artificial Intelligence, Computer Vision,
+  Natural Language Processing & Software Engineering
 </p>
 
 <br>
